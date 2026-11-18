@@ -1,1 +1,3 @@
 step,images,minutes,note
+gold_manual,4,22,"gán tay 4 ảnh gold không dùng AI"
+batch_review,24,52,"review 24 ảnh batch có pre-label kết hợp và 12 bẫy"
